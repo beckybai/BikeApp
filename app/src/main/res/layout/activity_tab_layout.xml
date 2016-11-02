@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <fragment
+        android:id="@+id/id_fragment_bottom"
+        android:name="com.xttoday.bike2.fragments.BottomActivity"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true" />
+    <fragment
+        android:id="@+id/id_fragment_title"
+        android:name="com.xttoday.bike2.fragments.TitleFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">bike2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_get_trace">GetTrace</string>
+    <string name="title_activity_show_trace_">ShowTrace_Activity</string>
+    <string name="title_activity_search_trace">searchTrace</string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_tab_view">TabViewActivity</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_activity_fragment__main">Fragment_Main</string>
+    <string name="title_activity_show_user">ShowUserActivity</string>
+    <string name="title_activity_user_trace">UserTraceActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_activity_show_forum">ShowForum</string>
+    <string name="title_activity_yingyan">YingyanActivity</string>
+    <string name="app_titile">百度鹰眼</string>
+    <string name="start_trace">开始</string>
+    <string name="stop_trace">停止</string>
+    <string name="select_date">日期</string>
+    <string name="fence_operator">操作</string>
+    <string name="is_processed">纠偏</string>
+    <string name="geo_fence">地理围栏</string>
+    <string name="track_upload">轨迹追踪</string>
+    <string name="track_query">历史轨迹</string>
+    <string name="history_track">  查询历史轨迹</string>
+    <string name="realtime_track">查询实时轨迹</string>
+    <string name="set_fence">设置围栏</string>
+    <string name="delete_fence">删除围栏</string>
+    <string name="fence_list">围栏列表</string>
+    <string name="monitored_status">监控状态</string>
+    <string name="history_alarm">历史报警</string>
+    <string name="delay_alarm">延迟报警</string>
+    <string name="fence_name">围栏名称</string>
+    <string name="fence_desc">围栏描述</string>
+    <string name="fence_radius">围栏半径</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+
+</resources>

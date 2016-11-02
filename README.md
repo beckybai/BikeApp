@@ -2,7 +2,7 @@
 soft engineering project
 
 It is an app with function of tracking, navagation, grouping, chatting, auto/self route-planning.
-When we design it first time, it is the only software in China which concludes these functions.(However, BaiDu Company now develops the same function as us.)
+When we design it first time, it is the only software in China which includes these functions.(However, BaiDu Company now develops the same function as us.)
 
 Envoironment: Android Studio
 
@@ -23,6 +23,7 @@ Language: Java
 All the java code are under ./app/src/main/java/com/xttoday/bike2/
 
 Dependency:
+
  	('libs/baidumapapi_map_v3_6_1.jar')
 
     ('libs/locSDK_6.13.jar')

@@ -1,8 +1,14 @@
 # BikeApp
 soft engineering project
 
+
 It is an app with function of tracking, navagation, grouping, chatting, auto/self route-planning.
 When we design it first time, it is the only software in China which includes these functions.(However, BaiDu Company now develops the same function as us.)
+
+Language: Java
+
+All the java code are under ./app/src/main/java/com/xttoday/bike2/
+For keeping the right structure and the dependency relationship, I upload the whole folder.
 
 Envoironment: Android Studio
 
@@ -18,9 +24,6 @@ Envoironment: Android Studio
 
     versionName "1.0"
 
-Language: Java
-
-All the java code are under ./app/src/main/java/com/xttoday/bike2/
 
 Dependency:
 
